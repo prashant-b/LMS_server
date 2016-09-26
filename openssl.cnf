@@ -224,6 +224,7 @@ subjectAltName = @alt_names
 
 [ alt_names ]
 DNS.1 = jenkins-server.prashant.com
+DNS.2 = prashant.prashant.com
 
 [ v3_ca ]
 
